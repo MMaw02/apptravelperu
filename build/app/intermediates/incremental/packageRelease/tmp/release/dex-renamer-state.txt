@@ -1,0 +1,4 @@
+#Wed Jul 13 01:08:21 COT 2022
+base.0=C\:\\Users\\DELL}\\OneDrive\\CERTUS\\CICLO III-DESKTOP-VKJ6RL2\\SOLUCION PLATAFORMAS MOVILES\\PROYECTO\\apptravelperu\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
